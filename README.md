@@ -14,7 +14,7 @@ A simplified clone of [PakWheels](https://www.pakwheels.com/) built using **Reac
 
 ## 🔗 Live Demo
 
-👉 [View on Netlify/Vercel](https://your-live-url.netlify.app)  
+👉 [View on Netlify/Vercel]([https://your-live-url.netlify.app](https://685eb04e348478365d608011--miniwheels.netlify.app/))  
 _(Replace with your deployed link)_
 
 ---
