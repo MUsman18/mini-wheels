@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2018,
+    "price": 4500000,
+    "location": "Lahore",
+    "condition": "Used",
+    "image": "/images/CorollaX.jpg",
+    "description": "Well maintained Toyota Corolla with no mechanical faults."
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": 5800000,
+    "location": "Karachi",
+    "condition": "Used",
+    "image": "/images/CivicX.jpg",
+    "description": "2020 Honda Civic in excellent condition, single owner."
+  },
+  {
+    "id": 3,
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2025,
+    "price": 4900000,
+    "location": "Islamabad",
+    "condition": "New",
+    "image": "/images/Swift.jpg",
+    "description": "Brand new Suzuki Swift, zero meter."
+  }
+]
